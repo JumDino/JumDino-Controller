@@ -1,5 +1,5 @@
-#ifndef __POKEROBO_LAB_MPU_JUMPING_PROGRAM_H__
-#define __POKEROBO_LAB_MPU_JUMPING_PROGRAM_H__
+#ifndef __JUMDINO_LIB_MPU_JUMPING_PROGRAM_H__
+#define __JUMDINO_LIB_MPU_JUMPING_PROGRAM_H__
 
 #include "JumDino_Lib_MPU_JumpingDetector.h"
 #include "JumDino_Lib_BLE_Central.h"
